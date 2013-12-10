@@ -1,0 +1,19 @@
+1.52
+SQL
+/home/corvinus/ws/trackerdb/git/sql/tariffs.sql	1386130815	1	/home/corvinus/ws/trackerdb/git/sql/tariffs.sql
+/home/corvinus/ws/trackerdb/git/sql/users.sql	1386115265	1	/home/corvinus/ws/trackerdb/git/sql/users.sql
+/home/corvinus/ws/trackerdb/git/sql/granting.sql	1386132001	0	/home/corvinus/ws/trackerdb/git/sql/granting.sql
+/home/corvinus/ws/trackerdb/git/sql/main_base.sql	1386241942	1	Database TrackerDb
+/home/corvinus/ws/trackerdb/git/sql/confirmations.sql	1386115265	1	/home/corvinus/ws/trackerdb/git/sql/confirmations.sql
+/home/corvinus/ws/trackerdb/git/sql/qsrecords.sql	1386131806	1	/home/corvinus/ws/trackerdb/git/sql/qsrecords.sql
+/home/corvinus/ws/trackerdb/git/sql/constants.sql	1386132001	1	/home/corvinus/ws/trackerdb/git/sql/constants.sql
+/home/corvinus/ws/trackerdb/git/sql/geodata.sql	1386242251	1	/home/corvinus/ws/trackerdb/git/sql/geodata.sql
+/home/corvinus/ws/trackerdb/git/sql/zconsumers.sql	1386115265	1	/home/corvinus/ws/trackerdb/git/sql/zconsumers.sql
+/home/corvinus/ws/trackerdb/git/sql/crons.sql	1386132001	1	/home/corvinus/ws/trackerdb/git/sql/crons.sql
+/home/corvinus/ws/trackerdb/git/sql/devices.sql	1386237240	1	/home/corvinus/ws/trackerdb/git/sql/devices.sql
+/home/corvinus/ws/trackerdb/git/sql/geozones.sql	1386211622	1	/home/corvinus/ws/trackerdb/git/sql/geozones.sql
+/home/corvinus/ws/trackerdb/git/sql/main_triggers.sql	1384660292	1	/home/corvinus/ws/trackerdb/git/sql/main_triggers.sql
+/home/corvinus/ws/trackerdb/git/sql/zmembers.sql	1386115265	1	/home/corvinus/ws/trackerdb/git/sql/zmembers.sql
+/home/corvinus/ws/trackerdb/git/sql/alerts.sql	1386132001	1	/home/corvinus/ws/trackerdb/git/sql/alerts.sql
+/home/corvinus/ws/trackerdb/git/sql/billrecs.sql	1386115265	1	/home/corvinus/ws/trackerdb/git/sql/billrecs.sql
+/home/corvinus/ws/trackerdb/git/sql/circles.sql	1386115265	1	/home/corvinus/ws/trackerdb/git/sql/circles.sql
